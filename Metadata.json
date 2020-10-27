@@ -1,0 +1,20 @@
+{
+    "Author": "Pradebban Raja",
+    "ContentSize": 1613,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stopstartazurevm-(scheduled-vm-shutdownstartup)/master/Stop-Start-AzureVM.ps1",
+    "DownloadCount": 72400,
+    "Id": "Stop-Start-AzureVM-535c2414",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 2,
+    "RaterCount": 9,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-1-10T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This PowerShell Workflow runbook connects to Azure using an Automation Credential and Starts/Stops a VM/a list of VMs/All VMs in a Subscription in-parallel.",
+    "Title": "Stop-Start-AzureVM (Scheduled VM Shutdown/Startup)",
+    "UpdatedDate": "2018-8-21T00:00:00",
+    "Url": "https://github.com/azureautomation/stopstartazurevm-(scheduled-vm-shutdownstartup)",
+    "UserTags": "Windows Azure Virtual Machines, Azure Automation, azure vm"
+}
